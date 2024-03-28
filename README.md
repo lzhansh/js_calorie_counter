@@ -12,5 +12,5 @@ Skills Learned:
 
 Usage:
 1. Clone or download the project repository.
-2. 
+2. Open index.html file in your browser
 
